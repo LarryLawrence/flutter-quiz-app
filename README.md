@@ -1,11 +1,12 @@
 ## flutter - a simple quiz app
 
-A simple flutter application, implemetentation of [this youtube tutorial](https://www.youtube.com/watch?v=jBBl1tYkUnE).
+A simple flutter application, implementation of [this youtube tutorial](https://www.youtube.com/watch?v=jBBl1tYkUnE).
 
 Or just refer to: [this repo](https://github.com/bramvbilsen/Flutter-Quiz-Preview-App)
 
 Screenshot:
-![screenshot](https://github.com/LarryLawrence/flutter-quiz-app/blob/master/screenshot.png)
+
+![screenshot](https://github.com/LarryLawrence/flutter-quiz-app/blob/master/screenshot.gif)
 
 
 
@@ -17,6 +18,7 @@ Screenshot:
 或者直接参考这个repo吧: [repo](https://github.com/bramvbilsen/Flutter-Quiz-Preview-App)。
 
 截图:
-![screenshot](https://github.com/LarryLawrence/flutter-quiz-app/blob/master/screenshot.png)
+
+![screenshot](https://github.com/LarryLawrence/flutter-quiz-app/blob/master/screenshot.gif)
 
 
